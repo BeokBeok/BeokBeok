@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeokBeok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hi there 👋  
 [![Kotlin Badge](http://img.shields.io/badge/-Kotlin-blue?style=flat-square&logo=kotlin&link=https://kotlinlang.org/docs/reference/)](https://kotlinlang.org/docs/reference/)
 [![Android Badge](http://img.shields.io/badge/-Android-green?style=flat-square&logo=android&link=https://d.android.com/)](https://d.android.com/)
 
