@@ -6,5 +6,6 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=notion&link=https://bit.ly/2AcJ9G8)](https://bit.ly/2AcJ9G8)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kekemusa37@gmail.com)](mailto:kekemusa37@gmail.com)
 
-![BeokBeok's github stats](https://github-readme-stats.vercel.app/api?username=beokbeok&show_icons=true)
-![BeokBeok's github most language](https://github-readme-stats.vercel.app/api/top-langs/?username=beokbeok&layout=compact)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=beokbeok&repo=DroidKnights2021_App)](https://github.com/droidknights/DroidKnights2021_App)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=beokbeok&repo=RandomUser)](https://github.com/BeokBeok/RandomUser)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=beokbeok&repo=RuneWords)](https://github.com/BeokBeok/RuneWords)
