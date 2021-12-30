@@ -8,6 +8,3 @@
 
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=beokbeok&repo=DroidKnights2021_App)](https://github.com/droidknights/DroidKnights2021_App)
-
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=beokbeok&repo=RandomUser)](https://github.com/BeokBeok/RandomUser)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=beokbeok&repo=RuneWords)](https://github.com/BeokBeok/RuneWords)
