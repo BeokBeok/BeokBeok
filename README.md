@@ -4,6 +4,7 @@
 ### 🌟 Skills
 [![Kotlin Badge](http://img.shields.io/badge/-Kotlin-blue?style=for-the-badge&logo=kotlin&link=https://kotlinlang.org/docs/reference/)](https://kotlinlang.org/docs/reference/)
 [![Android Badge](http://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android&link=https://d.android.com/)](https://d.android.com/)
+[![JUnit5 Badge](http://img.shields.io/badge/-JUnit5-black?style=for-the-badge&logo=junit5&link=https://junit.org/junit5/docs/current/user-guide//)](https://junit.org/junit5/docs/current/user-guide/)
 
 #### Hobby
 [![Scala Badge](http://img.shields.io/badge/-Scala-red?style=for-the-badge&logo=scala&link=https://www.scala-lang.org/)](https://www.scala-lang.org/)
