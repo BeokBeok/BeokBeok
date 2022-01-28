@@ -17,8 +17,8 @@
 - [Jetpack Compose Side-Effects — rememberUpdatedState](https://beokbeok.notion.site/Jetpack-Compose-Side-Effects-rememberUpdatedState-4391d62c841c4378bc94befe5423c1a0)
 
 ### 📝 Reviewer
-- [안드로이드 아키텍처 with TDD](https://edu.nextstep.camp/c/QT9zj8KN/)
-- [이펙티브 코틀린(Effective Kotlin) with TDD, Refactoring, Clean Code](https://edu.nextstep.camp/c/Z9QeJlCi/)
+- [안드로이드 아키텍처 with TDD 2기](https://edu.nextstep.camp/c/QT9zj8KN/)
+- [이펙티브 코틀린(Effective Kotlin) with TDD, Refactoring, Clean Code 3기](https://edu.nextstep.camp/c/Z9QeJlCi/)
 
 ### 🤝 Contributors
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=beokbeok&repo=DroidKnights2021_App)](https://github.com/droidknights/DroidKnights2021_App)
