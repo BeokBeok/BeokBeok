@@ -6,7 +6,7 @@
 [![Android Badge](http://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android&link=https://d.android.com/)](https://d.android.com/)
 
 #### Hobby
-[![Scala Badge](http://img.shields.io/badge/-Scala-red?style=for-the-badge&logo=scala&link=https://d.android.com/)](https://d.android.com/)
+[![Scala Badge](http://img.shields.io/badge/-Scala-red?style=for-the-badge&logo=scala&link=https://www.scala-lang.org/)](https://www.scala-lang.org/)
 
 
 ### 📚 Lastest Articles
