@@ -7,7 +7,7 @@
 
 [![JUnit5 Badge](http://img.shields.io/badge/-JUnit5-green?style=for-the-badge&logo=junit5&link=https://junit.org/junit5/docs/current/user-guide/)](https://junit.org/junit5/docs/current/user-guide/)
 [![Circleci Badge](http://img.shields.io/badge/-Circleci-black?style=for-the-badge&logo=circleci&link=https://circleci.com/)](https://circleci.com/)
-[![Github Actions Badge](http://img.shields.io/badge/-GithubActions-blue?style=for-the-badge&logo=github-actions&link=https://docs.github.com/en/actions/)](https://docs.github.com/en/actions/)
+[![Github Actions Badge](http://img.shields.io/badge/-GithubActions-9cf?style=for-the-badge&logo=github-actions&link=https://docs.github.com/en/actions/)](https://docs.github.com/en/actions/)
 
 #### Hobby
 [![Scala Badge](http://img.shields.io/badge/-Scala-red?style=for-the-badge&logo=scala&link=https://www.scala-lang.org/)](https://www.scala-lang.org/)
