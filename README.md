@@ -14,11 +14,11 @@
 
 
 ### 📚 Lastest Articles
+- [2021년을 돌아보며](https://beokbeok.notion.site/2021-5ccd726b7db44efca607c5b4864f6795)
 - [Room을 활용한 캐시 & 오프라인 지원](https://beokbeok.notion.site/Room-a5510a37047a459e98c98a056a9f66b0)
 - [안드로이드에서의 Flow 요약](https://beokbeok.notion.site/Flow-3ba08fdc997c40678fe5ec9970490af2)
 - [안드로이드에서의 Coroutines 요약](https://beokbeok.notion.site/Coroutines-60b1093c0234493281c96c11c6ee3826)
 - [코루틴 launch, async-await, SuspendCancellableCoroutine 비교](https://beokbeok.notion.site/launch-async-await-SuspendCancellableCoroutine-385f22943ba947fa98bcf957977f70b7)
-- [Jetpack Compose Side-Effects — rememberUpdatedState](https://beokbeok.notion.site/Jetpack-Compose-Side-Effects-rememberUpdatedState-4391d62c841c4378bc94befe5423c1a0)
 
 ### 📝 Reviewer
 - [안드로이드 아키텍처 with TDD 2기](https://edu.nextstep.camp/c/QT9zj8KN/)
