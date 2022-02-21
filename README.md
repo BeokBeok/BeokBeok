@@ -13,7 +13,7 @@
 [![Scala Badge](http://img.shields.io/badge/-Scala-red?style=for-the-badge&logo=scala&link=https://www.scala-lang.org/)](https://www.scala-lang.org/)
 
 
-### 📚 Lastest Articles
+### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8)
 - [2021년을 돌아보며](https://beokbeok.notion.site/2021-5ccd726b7db44efca607c5b4864f6795)
 - [Room을 활용한 캐시 & 오프라인 지원](https://beokbeok.notion.site/Room-a5510a37047a459e98c98a056a9f66b0)
 - [안드로이드에서의 Flow 요약](https://beokbeok.notion.site/Flow-3ba08fdc997c40678fe5ec9970490af2)
