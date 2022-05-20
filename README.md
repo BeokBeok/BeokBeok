@@ -12,12 +12,12 @@
 #### Hobby
 [![Scala Badge](http://img.shields.io/badge/-Scala-red?style=for-the-badge&logo=scala&link=https://www.scala-lang.org/)](https://www.scala-lang.org/)
 
-### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (22.05.09)]
+### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (22.05.20)]
+- [코틀린의 context receiver 적용하기](https://beokbeok.notion.site/context-receiver-38fde40c9f8b4a8f9e61c6429e2232f5)
 - [병렬 처리를 제한하기 위한 코루틴의 세마포어 개념 활용](https://beokbeok.notion.site/4e5b6b51d201435d99c768fce79f924d)
 - [Coroutines Flow 간단 요약](https://beokbeok.notion.site/Coroutines-Flow-54dfeb8bd6aa418db362a99e77ba9702)
 - [Flattening flow](https://beokbeok.notion.site/Flattening-flow-cc215a50f3e042f9b7a262541a8d69b1)
 - [2021년을 돌아보며](https://beokbeok.notion.site/2021-5ccd726b7db44efca607c5b4864f6795)
-- [Room을 활용한 캐시 & 오프라인 지원](https://beokbeok.notion.site/Room-a5510a37047a459e98c98a056a9f66b0)
 
 ### 📝 Reviewer
 - [안드로이드 아키텍처 with TDD](https://edu.nextstep.camp/c/QT9zj8KN/)
