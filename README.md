@@ -20,5 +20,9 @@
 - [안드로이드 아키텍처 with TDD](https://edu.nextstep.camp/c/QT9zj8KN/)
 - [이펙티브 코틀린(Effective Kotlin) with TDD, Refactoring, Clean Code](https://edu.nextstep.camp/c/Z9QeJlCi/)
 
-### 🤝 Contributors
+### 🤝 Contributors 
+<details>
+
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=beokbeok&repo=DroidKnights2021_App)](https://github.com/droidknights/DroidKnights2021_App)
+
+</details>
