@@ -10,7 +10,7 @@
 [![Github Actions Badge](http://img.shields.io/badge/-GithubActions-9cf?style=for-the-badge&logo=github-actions&link=https://docs.github.com/en/actions/)](https://docs.github.com/en/actions/)
 
 ### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (22.07.15)]
-- [Jetpack Compose 이해 - Part1](https://beokbeok.notion.site/Jetpack-Compose-1-e29edf71932e4b569e621aada0088bdc)
+- [Jetpack Compose 이해 - Part 1 of 2](https://beokbeok.notion.site/Jetpack-Compose-1-e29edf71932e4b569e621aada0088bdc)
 - [Smater Shared Kotlin Flows](https://beokbeok.notion.site/Smater-Shared-Kotlin-Flows-1b892e200f384e21b2c33bf9fc67e2b6)
 - [toml로 디펜던시 관리하기](https://beokbeok.notion.site/toml-5b70e30653214afda88951d05bff9d5d)
 - [코틀린의 context receiver 적용하기](https://beokbeok.notion.site/context-receiver-38fde40c9f8b4a8f9e61c6429e2232f5)
