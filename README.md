@@ -9,11 +9,11 @@
 [![Circleci Badge](http://img.shields.io/badge/-Circleci-black?style=for-the-badge&logo=circleci&link=https://circleci.com/)](https://circleci.com/)
 [![Github Actions Badge](http://img.shields.io/badge/-GithubActions-9cf?style=for-the-badge&logo=github-actions&link=https://docs.github.com/en/actions/)](https://docs.github.com/en/actions/)
 
-### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (22.06.08)]
+### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (22.07.15)]
+- [Jetpack Compose 이해 - Part1](https://beokbeok.notion.site/Jetpack-Compose-1-e29edf71932e4b569e621aada0088bdc)
 - [Smater Shared Kotlin Flows](https://beokbeok.notion.site/Smater-Shared-Kotlin-Flows-1b892e200f384e21b2c33bf9fc67e2b6)
 - [toml로 디펜던시 관리하기](https://beokbeok.notion.site/toml-5b70e30653214afda88951d05bff9d5d)
 - [코틀린의 context receiver 적용하기](https://beokbeok.notion.site/context-receiver-38fde40c9f8b4a8f9e61c6429e2232f5)
-- [병렬 처리를 제한하기 위한 코루틴의 세마포어 개념 활용](https://beokbeok.notion.site/4e5b6b51d201435d99c768fce79f924d)
 - [2021년을 돌아보며](https://beokbeok.notion.site/2021-5ccd726b7db44efca607c5b4864f6795)
 
 ### 📝 Reviewer
