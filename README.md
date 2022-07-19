@@ -9,7 +9,8 @@
 [![Circleci Badge](http://img.shields.io/badge/-Circleci-black?style=for-the-badge&logo=circleci&link=https://circleci.com/)](https://circleci.com/)
 [![Github Actions Badge](http://img.shields.io/badge/-GithubActions-9cf?style=for-the-badge&logo=github-actions&link=https://docs.github.com/en/actions/)](https://docs.github.com/en/actions/)
 
-### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (22.07.15)]
+### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (22.07.20)]
+- [Jetpack Compose 이해 - Part 2 of 2](https://beokbeok.notion.site/Jetpack-Compose-Part-2-of-2-2210be1cf2ba4863b5e9c354387467f3)
 - [Jetpack Compose 이해 - Part 1 of 2](https://beokbeok.notion.site/Jetpack-Compose-1-e29edf71932e4b569e621aada0088bdc)
 - [Smater Shared Kotlin Flows](https://beokbeok.notion.site/Smater-Shared-Kotlin-Flows-1b892e200f384e21b2c33bf9fc67e2b6)
 - [toml로 디펜던시 관리하기](https://beokbeok.notion.site/toml-5b70e30653214afda88951d05bff9d5d)
