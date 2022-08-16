@@ -18,7 +18,7 @@
 
 ### 📝 Reviewer
 - [안드로이드 아키텍처 with TDD](https://edu.nextstep.camp/c/QT9zj8KN/)
-- [이펙티브 코틀린(Effective Kotlin) with TDD, Refactoring, Clean Code](https://edu.nextstep.camp/c/Z9QeJlCi/)
+- [TDD, 클린 코드 with Kotlin](https://edu.nextstep.camp/c/Z9QeJlCi/)
 
 ### 🤝 Contributors 
 <details>
