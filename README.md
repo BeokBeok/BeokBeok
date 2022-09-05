@@ -9,12 +9,12 @@
 [![Circleci Badge](http://img.shields.io/badge/-Circleci-black?style=for-the-badge&logo=circleci&link=https://circleci.com/)](https://circleci.com/)
 [![Github Actions Badge](http://img.shields.io/badge/-GithubActions-9cf?style=for-the-badge&logo=github-actions&link=https://docs.github.com/en/actions/)](https://docs.github.com/en/actions/)
 
-### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (22.08.24)]
+### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (22.09.05)]
+- [Compose의 State 및 Derived State](https://beokbeok.notion.site/Compose-State-Derived-State-2ab9cccb53874df5b3999a8744e17ac8)
 - [Jetpack Compose Recomposition 문제](https://beokbeok.notion.site/Jetpack-Compose-Recomposition-ce6227352eb94d7f946437d0d3de2995)
 - [모든 ViewBinding에 null초기화가 필요할까?](https://beokbeok.notion.site/ViewBinding-null-b425654171b04731993af5205568f0f6)
 - [Kotlin Flow: 모범 사례](https://beokbeok.notion.site/Kotlin-Flow-b944e5a62b864734815e83aa00339e6d)
 - [Jetpack Compose 이해 - Part 2 of 2](https://beokbeok.notion.site/Jetpack-Compose-Part-2-of-2-2210be1cf2ba4863b5e9c354387467f3)
-- [Jetpack Compose 이해 - Part 1 of 2](https://beokbeok.notion.site/Jetpack-Compose-1-e29edf71932e4b569e621aada0088bdc)
 
 ### 📝 Reviewer
 - [안드로이드 아키텍처 with TDD](https://edu.nextstep.camp/c/QT9zj8KN/)
