@@ -17,6 +17,7 @@
 - [Jetpack Compose 이해 - Part 2 of 2](https://beokbeok.notion.site/Jetpack-Compose-Part-2-of-2-2210be1cf2ba4863b5e9c354387467f3)
 
 ### 📝 Reviewer
+- [부스트캠프 웹·모바일 7기](https://boostcamp.connect.or.kr/mentor_contributor.html)
 - [안드로이드 아키텍처 with TDD](https://edu.nextstep.camp/c/QT9zj8KN/)
 - [TDD, 클린 코드 with Kotlin](https://edu.nextstep.camp/c/Z9QeJlCi/)
 
