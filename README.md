@@ -9,12 +9,12 @@
 [![Circleci Badge](http://img.shields.io/badge/-Circleci-black?style=for-the-badge&logo=circleci&link=https://circleci.com/)](https://circleci.com/)
 [![Github Actions Badge](http://img.shields.io/badge/-GithubActions-9cf?style=for-the-badge&logo=github-actions&link=https://docs.github.com/en/actions/)](https://docs.github.com/en/actions/)
 
-### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (22.09.28)]
+### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (22.10.03)]
+- [stateIn의 started](https://beokbeok.notion.site/stateIn-started-7882d6a7d0a24f6d90a42b342e64bfd2)
 - [앱 성능 최적화를 위한 6가지 Jetpack Compose 가이드라인](https://beokbeok.notion.site/6-Jetpack-Compose-c1d9bf9728e54e669b97d8d1502f5a15)
 - [Compose의 State 및 Derived State](https://beokbeok.notion.site/Compose-State-Derived-State-2ab9cccb53874df5b3999a8744e17ac8)
 - [Jetpack Compose Recomposition 문제](https://beokbeok.notion.site/Jetpack-Compose-Recomposition-ce6227352eb94d7f946437d0d3de2995)
 - [모든 ViewBinding에 null초기화가 필요할까?](https://beokbeok.notion.site/ViewBinding-null-b425654171b04731993af5205568f0f6)
-- [Kotlin Flow: 모범 사례](https://beokbeok.notion.site/Kotlin-Flow-b944e5a62b864734815e83aa00339e6d)
 
 ### 📝 Reviewer
 - [부스트캠프 웹·모바일 7기](https://boostcamp.connect.or.kr/mentor_contributor.html)
