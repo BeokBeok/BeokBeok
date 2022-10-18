@@ -17,7 +17,7 @@
 - [모든 ViewBinding에 null초기화가 필요할까?](https://beokbeok.notion.site/ViewBinding-null-b425654171b04731993af5205568f0f6)
 
 ### 📝 Reviewer
-- [부스트캠프 웹·모바일 7기](https://boostcamp.connect.or.kr/mentor_contributor.html)
+- [부스트캠프 웹·모바일](https://boostcamp.connect.or.kr/mentor_contributor.html)
 - [안드로이드 아키텍처 with TDD](https://edu.nextstep.camp/c/QT9zj8KN/)
 - [TDD, 클린 코드 with Kotlin](https://edu.nextstep.camp/c/Z9QeJlCi/)
 
