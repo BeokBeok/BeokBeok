@@ -9,12 +9,12 @@
 [![Circleci Badge](http://img.shields.io/badge/-Circleci-black?style=for-the-badge&logo=circleci&link=https://circleci.com/)](https://circleci.com/)
 [![Github Actions Badge](http://img.shields.io/badge/-GithubActions-9cf?style=for-the-badge&logo=github-actions&link=https://docs.github.com/en/actions/)](https://docs.github.com/en/actions/)
 
-### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (22.10.25)]
+### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (22.10.31)]
+- [Context Receivers](https://beokbeok.notion.site/Context-Receivers-0547ee662d4648a8a38fdc74e3531a45)
 - [메서드 참조와 람다 어느 것이 더 좋을까?](https://beokbeok.notion.site/a4db73e6e0f34dcbbd394ed7eeed6e08)
 - [stateIn의 started](https://beokbeok.notion.site/stateIn-started-7882d6a7d0a24f6d90a42b342e64bfd2)
 - [앱 성능 최적화를 위한 6가지 Jetpack Compose 가이드라인](https://beokbeok.notion.site/6-Jetpack-Compose-c1d9bf9728e54e669b97d8d1502f5a15)
 - [Compose의 State 및 Derived State](https://beokbeok.notion.site/Compose-State-Derived-State-2ab9cccb53874df5b3999a8744e17ac8)
-- [Jetpack Compose Recomposition 문제](https://beokbeok.notion.site/Jetpack-Compose-Recomposition-ce6227352eb94d7f946437d0d3de2995)
 
 ### 📝 Reviewer
 - [부스트캠프 웹·모바일](https://boostcamp.connect.or.kr/mentor_contributor.html)
