@@ -9,12 +9,12 @@
 [![Circleci Badge](http://img.shields.io/badge/-Circleci-black?style=for-the-badge&logo=circleci&link=https://circleci.com/)](https://circleci.com/)
 [![Github Actions Badge](http://img.shields.io/badge/-GithubActions-9cf?style=for-the-badge&logo=github-actions&link=https://docs.github.com/en/actions/)](https://docs.github.com/en/actions/)
 
-### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (23.02.10)]
+### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (23.02.28)]
+- [Compose phases](https://velog.io/@beokbeok/Compose-phases)
 - [언제 derivedStateOf를 써야할까?](https://velog.io/@beokbeok/%EC%96%B8%EC%A0%9C-derivedStateOf%EB%A5%BC-%EC%8D%A8%EC%95%BC%ED%95%A0%EA%B9%8C)
 - [coil-compose Software rendering doesn't support hardware bitmaps error](https://velog.io/@beokbeok/coil-compose-Software-rendering-doesnt-support-hardware-bitmaps-error)
 - [WorkManager hilt not working](https://velog.io/@beokbeok/WorkManager-hilt-not-working)
 - [Compose를 Stable하게 도외주는 Mendable 적용하기](https://velog.io/@beokbeok/Mendable-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
-- [Baseline Profile CI 적용](https://velog.io/@beokbeok/Baseline-Profile%EC%9D%84-CI%EC%97%90-%EC%A0%81%EC%9A%A9)
 
 ### 📝 Reviewer
 - [부스트캠프 웹·모바일](https://boostcamp.connect.or.kr/mentor_contributor.html)
