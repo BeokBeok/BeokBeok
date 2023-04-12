@@ -9,12 +9,12 @@
 [![Circleci Badge](http://img.shields.io/badge/-Circleci-black?style=for-the-badge&logo=circleci&link=https://circleci.com/)](https://circleci.com/)
 [![Github Actions Badge](http://img.shields.io/badge/-GithubActions-9cf?style=for-the-badge&logo=github-actions&link=https://docs.github.com/en/actions/)](https://docs.github.com/en/actions/)
 
-### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (23.03.07)]
+### 📚 Lastest [Articles](https://bit.ly/2AcJ9G8) [Updated (23.04.12)]
+- [Compose Navigation backstack](https://velog.io/@beokbeok/Jetpack-Compose-%EB%B0%B1%EC%8A%A4%ED%83%9D-%EC%A0%95%EB%A6%AC)
 - [pager auto swipe with compose](https://velog.io/@beokbeok/pager-auto-swipe-with-compose)
 - [Compose phases](https://velog.io/@beokbeok/Compose-phases)
 - [언제 derivedStateOf를 써야할까?](https://velog.io/@beokbeok/%EC%96%B8%EC%A0%9C-derivedStateOf%EB%A5%BC-%EC%8D%A8%EC%95%BC%ED%95%A0%EA%B9%8C)
 - [coil-compose Software rendering doesn't support hardware bitmaps error](https://velog.io/@beokbeok/coil-compose-Software-rendering-doesnt-support-hardware-bitmaps-error)
-- [WorkManager hilt not working](https://velog.io/@beokbeok/WorkManager-hilt-not-working)
 
 ### 📝 Reviewer
 - [부스트캠프 웹·모바일](https://boostcamp.connect.or.kr/mentor_contributor.html)
