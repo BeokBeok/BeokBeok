@@ -10,12 +10,12 @@
 [![Github Actions Badge](http://img.shields.io/badge/-GithubActions-black?style=for-the-badge&logo=github-actions&link=https://docs.github.com/en/actions/)](https://docs.github.com/en/actions/)
 [![Jenkins Badge](https://img.shields.io/badge/-Jenkins-black?style=for-the-badge&logo=jenkins&link=https://www.jenkins.io/)](https://www.jenkins.io/)
 
-### 📚 Lastest Articles [Updated (23.05.28)]
+### 📚 Lastest Articles [Updated (23.07.02)]
+- [Coroutine의 race condition 개선](https://velog.io/@beokbeok/Coroutine%EC%9D%98-race-condition-%EA%B0%9C%EC%84%A0)
 - [ViewCompositionStrategy 알아보기](https://velog.io/@beokbeok/ViewCompositionStrategy)
 - [데이터바인딩 사용을 지양해야 하는 이유](https://velog.io/@beokbeok/%EC%99%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B0%94%EC%9D%B8%EB%94%A9-%EC%82%AC%EC%9A%A9%EC%9D%84-%EB%A9%88%EC%B6%B0%EC%95%BC%ED%95%A0%EA%B9%8C)
 - [Compose Navigation backstack](https://velog.io/@beokbeok/Jetpack-Compose-%EB%B0%B1%EC%8A%A4%ED%83%9D-%EC%A0%95%EB%A6%AC)
 - [pager auto swipe with compose](https://velog.io/@beokbeok/pager-auto-swipe-with-compose)
-- [Compose phases](https://velog.io/@beokbeok/Compose-phases)
 
 ### 📝 Reviewer
 - [우아한테크코스 모바일 안드로이드](https://techcourse.woowahan.com/)
