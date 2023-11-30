@@ -1,6 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeokBeok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kekemusa37@gmail.com)](mailto:kekemusa37@gmail.com)
-
 ### 🌟 Skills
 [![Android Badge](http://img.shields.io/badge/-Android-brightgreen?style=for-the-badge&logo=android&link=https://d.android.com/)](https://d.android.com/)
 [![Kotlin Badge](http://img.shields.io/badge/-Kotlin-blue?style=for-the-badge&logo=kotlin&link=https://kotlinlang.org/docs/reference/)](https://kotlinlang.org/docs/reference/)
